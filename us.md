@@ -1,6 +1,6 @@
 
 # 2019 - L&T Report - Academic Metrics
-We need provide the retention rates for each trimester of 2018 and 2019:
+We need provide 4 academic metrics for each trimester of 2018 and 2019.
 
 ## 1. Retention Rate
 
