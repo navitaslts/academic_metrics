@@ -2,12 +2,12 @@
 # 2019 - L&T Report - Academic Metrics
 We need provide the retention rates for each trimester of 2018 and 2019:
 
-## Retention Rate
+## 1. Retention Rate
 
 To calculate the retention rate we need 3 different indicators for each trimester.
 Note: Calculate 17T3 (September 2017) is required to calculte 18T1 retention rate 
 
-### Commencing Students
+### 1.1 Commencing Students
 | Term      | # Commencing Students (A) |
 | --------- | -------------------------:| 
 | 18T1      | 99                        | 
@@ -18,7 +18,7 @@ Note: Calculate 17T3 (September 2017) is required to calculte 18T1 retention rat
 
 > What is the SQL?
 
-### Graduands Students
+### 1.2 Graduands Students
 | Term      | # Graduands Students (A) |
 | --------- | ------------------------:| 
 | 18T1      | 99                       | 
@@ -29,7 +29,7 @@ Note: Calculate 17T3 (September 2017) is required to calculte 18T1 retention rat
 
 > What is the SQL?
 
-### Registered Students
+### 1.3 Registered Students
 | Term      | # Registered Students (A) |
 | --------- | -------------------------:| 
 | 18T1      | 999                       | 
@@ -40,7 +40,7 @@ Note: Calculate 17T3 (September 2017) is required to calculte 18T1 retention rat
 
 > What is the SQL?
 
-### Pass Rate
+### 2. Pass Rate
 
 From 2018 to 2019.
 
@@ -57,7 +57,7 @@ From 2018 to 2019.
 > What is the SQL?
 
 
-## Complexion Index
+## 3. Complexion Index
 
 Filter:
 - From 2018 to 2019
@@ -77,7 +77,7 @@ Filter:
 
 > What is the SQL?
 
-## PER - Performance Efficiency Ratio 
+## 4. PER - Performance Efficiency Ratio 
 
 Filter:
 - Students Enrolled in From 2018 to 2019
