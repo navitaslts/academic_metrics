@@ -44,11 +44,11 @@ Note: Calculate 17T3 (September 2017) is required to calculte 18T1 retention rat
 
 From 2018 to 2019.
 
-| Term      | StudentID     | Program  | Module | Passed/Failed  (A) |
-| --------- |:-------------:| --------:| ------ | ------------------ |
-| 18T1      | S1            | ProgramA | Mod10  | 1                  |
-| 18T1      | S1            | ProgramA | Mod11  | 0                  |
-| 18T1      | S1            | ProgramA | Mod12  | 1                  |
+| Term      | StudentID     | Program  | Course/Class | Passed/Failed  (A) |
+| --------- |:-------------:| --------:| ------------ | ------------------ |
+| 18T1      | S1            | ProgramA | Class10      | 1                  |
+| 18T1      | S1            | ProgramA | Class11      | 0                  |
+| 18T1      | S1            | ProgramA | Class12      | 1                  |
 
 (A) Passed/Failed:
 - 1 => Passed
@@ -57,7 +57,7 @@ From 2018 to 2019.
 > What is the SQL?
 
 
-## 3. Complexion Index
+## 3. Completion Index
 
 Filter:
 - From 2018 to 2019
