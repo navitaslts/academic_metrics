@@ -40,7 +40,7 @@ Note: Calculate 17T3 (September 2017) is required to calculte 18T1 retention rat
 
 > What is the SQL?
 
-### 2. Pass Rate
+## 2. Pass Rate
 
 From 2018 to 2019.
 
